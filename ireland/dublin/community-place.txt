@@ -1,0 +1,13 @@
+Title: Dublin
+
+----
+
+Latitude: 53.3498006
+
+----
+
+Longitude: -6.2602964
+
+----
+
+Text: 

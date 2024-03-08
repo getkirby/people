@@ -1,0 +1,37 @@
+Name: Baptiste Lhopitault
+
+----
+
+Business: .Repliq
+
+----
+
+Place: Toulouse
+
+----
+
+Country: France
+
+----
+
+Type: Agency/Studio/Team
+
+----
+
+Latitude: 43.604462
+
+----
+
+Longitude: 1.444247
+
+----
+
+Discord: babathaya
+
+----
+
+Mastodon: @babathaya@mastodon.design
+
+----
+
+Text: 

@@ -1,0 +1,13 @@
+Title: Stuttgart
+
+----
+
+Latitude: 48.778449
+
+----
+
+Longitude: 9.180013
+
+----
+
+Text: 

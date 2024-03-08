@@ -1,0 +1,13 @@
+Title: Krefeld
+
+----
+
+Latitude: 51.333121
+
+----
+
+Longitude: 6.562334
+
+----
+
+Text: 
