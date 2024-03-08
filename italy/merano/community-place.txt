@@ -1,4 +1,4 @@
-Title: Merano
+Name: Merano
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 46.669555
 ----
 
 Longitude: 11.159418
-
-----
-
-Text: 

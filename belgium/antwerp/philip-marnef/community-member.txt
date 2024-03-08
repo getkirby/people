@@ -2,28 +2,4 @@ Name: Philip Marnef
 
 ----
 
-Business: Bureau Marnef
-
-----
-
-Place: Antwerp
-
-----
-
-Country: Belgium
-
-----
-
-Type: Freelancer
-
-----
-
-Latitude: 51.22111
-
-----
-
-Longitude: 4.399708
-
-----
-
-Text: 
+Organisation: Bureau Marnef

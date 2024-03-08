@@ -2,39 +2,7 @@ Name: Kristian Maňas
 
 ----
 
-Business: Karsten Systems
-
-----
-
-Partner: Partner
-
-----
-
-Place: Brno
-
-----
-
-Country: Czech Republic
-
-----
-
-Type: Agency/Studio/Team
-
-----
-
-Latitude: 49.1938775
-
-----
-
-Longitude: 16.606107
-
-----
-
-Discord: iskrisis
-
-----
-
-Email: mail@kristianmanas.com
+Organisation: Karsten Systems
 
 ----
 
@@ -42,8 +10,4 @@ Forum: iskrisis
 
 ----
 
-Website: https://kristianmanas.com
-
-----
-
-Text: 
+Discord: iskrisis

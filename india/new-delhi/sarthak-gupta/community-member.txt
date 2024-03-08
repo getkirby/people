@@ -1,33 +1,9 @@
-Name: SARTHAK GUPTA
+Name: Sarthak Gupta
 
 ----
 
-Business: AuCourant Cyberspace Private Limited
-
-----
-
-Place: New Delhi
-
-----
-
-Country: India
-
-----
-
-Type: Agency/Studio/Team
-
-----
-
-Latitude: 28.613895
-
-----
-
-Longitude: 77.209006
+Organisation: AuCourant Cyberspace
 
 ----
 
 Discord: aucourantcyberspace
-
-----
-
-Text: 

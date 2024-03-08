@@ -2,24 +2,4 @@ Name: Jonas Feige
 
 ----
 
-Place: Frankfurt a.M.
-
-----
-
-Country: Germany
-
-----
-
-Latitude: 50.110644
-
-----
-
-Longitude: 8.682092
-
-----
-
 Discord: jonas
-
-----
-
-Text: 

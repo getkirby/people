@@ -2,32 +2,8 @@ Name: Jonas Rebmann
 
 ----
 
-Place: Bremen
-
-----
-
-Country: Germany
-
-----
-
-Type: Freelancer
-
-----
-
-Latitude: 53.07582
-
-----
-
-Longitude: 8.807165
-
-----
-
 Discord: jonas_rebmann
 
 ----
 
 Instagram: jonas_rebmann
-
-----
-
-Text: 

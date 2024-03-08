@@ -1,5 +1,1 @@
-Title: Germany
-
-----
-
-Text: 
+Name: Germany

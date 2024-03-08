@@ -2,24 +2,4 @@ Name: Cees van Egmond
 
 ----
 
-Business: JUST (Digital Agency) - wearejust.com
-
-----
-
-Place: Den Haag
-
-----
-
-Country: Netherlands
-
-----
-
-Latitude: 52.0768851
-
-----
-
-Longitude: 4.3167764
-
-----
-
-Text: 
+Organisation: JUST

@@ -1,4 +1,4 @@
-Title: Vienna
+Name: Vienna
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 48.2083537
 ----
 
 Longitude: 16.3725042
-
-----
-
-Text: 

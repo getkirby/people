@@ -1,4 +1,4 @@
-Title: Burlington, Kentucky
+Name: Burlington, Kentucky
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 39.02756
 ----
 
 Longitude: -84.724113
-
-----
-
-Text: 

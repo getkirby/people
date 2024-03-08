@@ -1,4 +1,4 @@
-Title: Melbourne
+Name: Melbourne
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: -37.814218
 ----
 
 Longitude: 144.963161
-
-----
-
-Text: 

@@ -1,5 +1,1 @@
-Title: Czech Republic
-
-----
-
-Text: 
+Name: Czech Republic

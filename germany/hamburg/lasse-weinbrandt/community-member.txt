@@ -2,32 +2,8 @@ Name: Lasse Weinbrandt
 
 ----
 
-Place: Hamburg
-
-----
-
-Country: Germany
-
-----
-
-Type: Freelancer
-
-----
-
-Latitude: 53.550341
-
-----
-
-Longitude: 10.000654
-
-----
-
-Discord: lassereinboeng
-
-----
-
 Forum: lassereinboeng
 
 ----
 
-Text: 
+Discord: lassereinboeng

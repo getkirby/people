@@ -1,4 +1,4 @@
-Title: İstanbul
+Name: İstanbul
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 41.0203937
 ----
 
 Longitude: 28.8863547
-
-----
-
-Text: 

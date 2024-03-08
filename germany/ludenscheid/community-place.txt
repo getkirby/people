@@ -1,4 +1,4 @@
-Title: Lüdenscheid
+Name: Lüdenscheid
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 51.2161882
 ----
 
 Longitude: 7.6333602
-
-----
-
-Text: 

@@ -1,4 +1,4 @@
-Title: Kassel
+Name: Kassel
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 51.315455
 ----
 
 Longitude: 9.49241
-
-----
-
-Text: 

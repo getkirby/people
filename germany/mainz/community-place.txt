@@ -1,4 +1,4 @@
-Title: Mainz
+Name: Mainz
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 49.9992213
 ----
 
 Longitude: 8.2756036
-
-----
-
-Text: 

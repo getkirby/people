@@ -1,4 +1,4 @@
-Title: Potsdam
+Name: Potsdam
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 52.400931
 ----
 
 Longitude: 13.05914
-
-----
-
-Text: 

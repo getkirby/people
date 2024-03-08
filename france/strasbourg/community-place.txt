@@ -1,4 +1,4 @@
-Title: Strasbourg
+Name: Strasbourg
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 48.5834833
 ----
 
 Longitude: 7.7468476
-
-----
-
-Text: 

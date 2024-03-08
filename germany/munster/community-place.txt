@@ -1,4 +1,4 @@
-Title: Münster
+Name: Münster
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 51.96251
 ----
 
 Longitude: 7.625188
-
-----
-
-Text: 

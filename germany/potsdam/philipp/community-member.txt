@@ -2,19 +2,7 @@ Name: Philipp
 
 ----
 
-Place: Potsdam
-
-----
-
-Country: Germany
-
-----
-
-Latitude: 52.400931
-
-----
-
-Longitude: 13.05914
+Forum: philipptrenz
 
 ----
 
@@ -22,12 +10,4 @@ Discord: philtre_
 
 ----
 
-Forum: philipptrenz
-
-----
-
 Mastodon: @philipptrenz@mastodon.social
-
-----
-
-Text: 

@@ -1,5 +1,1 @@
-Title: India
-
-----
-
-Text: 
+Name: India

@@ -1,5 +1,1 @@
-Title: Belgium
-
-----
-
-Text: 
+Name: Belgium

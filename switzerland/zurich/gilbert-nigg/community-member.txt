@@ -2,28 +2,4 @@ Name: Gilbert Nigg
 
 ----
 
-Place: Zürich
-
-----
-
-Country: Switzerland
-
-----
-
-Type: Agency/Studio/Team
-
-----
-
-Latitude: 47.369733
-
-----
-
-Longitude: 8.541096
-
-----
-
 Forum: Gilles
-
-----
-
-Text: 

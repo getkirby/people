@@ -2,31 +2,7 @@ Name: Sascha Bregenhorn
 
 ----
 
-Business: n2.Studio
-
-----
-
-Place: Münster
-
-----
-
-Country: Germany
-
-----
-
-Type: Freelancer
-
-----
-
-Latitude: 51.96251
-
-----
-
-Longitude: 7.625188
-
-----
-
-Discord: saschafrommars
+Organisation: n2.Studio
 
 ----
 
@@ -34,8 +10,8 @@ Forum: saschabregenhorn
 
 ----
 
-Mastodon: @SaschaFromMars@mstdn.social
+Discord: saschafrommars
 
 ----
 
-Text: 
+Mastodon: @SaschaFromMars@mstdn.social

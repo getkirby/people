@@ -1,4 +1,4 @@
-Title: Zürich
+Name: Zürich
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 47.369733
 ----
 
 Longitude: 8.541096
-
-----
-
-Text: 

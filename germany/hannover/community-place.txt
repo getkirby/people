@@ -1,4 +1,4 @@
-Title: Hannover
+Name: Hannover
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 52.374478
 ----
 
 Longitude: 9.738553
-
-----
-
-Text: 

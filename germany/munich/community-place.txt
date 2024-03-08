@@ -1,4 +1,4 @@
-Title: Munich
+Name: Munich
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 48.1365601
 ----
 
 Longitude: 11.5772753
-
-----
-
-Text: 

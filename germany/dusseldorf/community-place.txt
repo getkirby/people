@@ -1,4 +1,4 @@
-Title: Düsseldorf
+Name: Düsseldorf
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 51.225402
 ----
 
 Longitude: 6.776314
-
-----
-
-Text: 

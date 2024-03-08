@@ -2,31 +2,7 @@ Name: Eddie Dale
 
 ----
 
-Business: Vasser AS
-
-----
-
-Place: Hannover
-
-----
-
-Country: Germany
-
-----
-
-Type: Agency/Studio/Team
-
-----
-
-Latitude: 52.374478
-
-----
-
-Longitude: 9.738553
-
-----
-
-Discord: eddie_vasser
+Organisation: Vasser AS
 
 ----
 
@@ -34,8 +10,8 @@ Forum: eddie
 
 ----
 
-Mastodon: @eddiedale@mastodon.social
+Discord: eddie_vasser
 
 ----
 
-Text: 
+Mastodon: @eddiedale@mastodon.social

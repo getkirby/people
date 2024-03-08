@@ -2,32 +2,8 @@ Name: Dennis Paauw
 
 ----
 
-Business: Think Yellow
-
-----
-
-Place: The Hague
-
-----
-
-Country: The Netherlands
-
-----
-
-Type: Agency/Studio/Team
-
-----
-
-Latitude: 52.0768851
-
-----
-
-Longitude: 4.3167764
+Organisation: Think Yellow
 
 ----
 
 Discord: dennis_tylw
-
-----
-
-Text: 

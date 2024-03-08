@@ -2,32 +2,4 @@ Name: Stella Blake-Kelly
 
 ----
 
-Business: Cartisan
-
-----
-
-Place: Sydney
-
-----
-
-Country: Australia
-
-----
-
-Interests: Collaboration,Meetups
-
-----
-
-Type: Freelancer
-
-----
-
-Latitude: -33.854816
-
-----
-
-Longitude: 151.216454
-
-----
-
-Text: 
+Organisation: Cartisan

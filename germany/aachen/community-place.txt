@@ -1,4 +1,4 @@
-Title: Aachen
+Name: Aachen
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 50.776351
 ----
 
 Longitude: 6.083862
-
-----
-
-Text: 

@@ -2,36 +2,8 @@ Name: James Steel
 
 ----
 
-Business: Hash&Salt
-
-----
-
-Partner: Partner
-
-----
-
-Place: Gosport
-
-----
-
-Country: United Kingdom
-
-----
-
-Latitude: 50.795207
-
-----
-
-Longitude: -1.121085
+Organisation: Hash&Salt
 
 ----
 
 Discord: jimbobrjames
-
-----
-
-Email: hello@hashandsalt.com
-
-----
-
-Text: 

@@ -2,39 +2,7 @@ Name: Lukas Bestle
 
 ----
 
-Business: Kirby core team
-
-----
-
-Place: Reutlingen
-
-----
-
-Country: Germany
-
-----
-
-Type: Core team
-
-----
-
-Latitude: 48.483334
-
-----
-
-Longitude: 9.216667
-
-----
-
-Discord: lukasbestle
-
-----
-
-Email: lukas@getkirby.com
-
-----
-
-Website: https://getkirby.com
+Organisation: Kirby core team
 
 ----
 
@@ -42,4 +10,4 @@ Forum: lukasbestle
 
 ----
 
-Text: 
+Discord: lukasbestle

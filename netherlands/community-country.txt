@@ -1,5 +1,1 @@
-Title: Netherlands
-
-----
-
-Text: 
+Name: Netherlands

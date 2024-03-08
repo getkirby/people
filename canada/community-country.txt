@@ -1,5 +1,1 @@
-Title: Canada
-
-----
-
-Text: 
+Name: Canada

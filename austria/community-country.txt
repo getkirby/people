@@ -1,5 +1,1 @@
-Title: Austria
-
-----
-
-Text: 
+Name: Austria

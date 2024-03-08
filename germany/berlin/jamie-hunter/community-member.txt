@@ -2,31 +2,7 @@ Name: Jamie Hunter
 
 ----
 
-Business: studio~humm
-
-----
-
-Place: Berlin
-
-----
-
-Country: Germany
-
-----
-
-Type: Agency/Studio/Team
-
-----
-
-Latitude: 52.5170365
-
-----
-
-Longitude: 13.3888599
-
-----
-
-Discord: jamie5331
+Organisation: studio~humm
 
 ----
 
@@ -34,4 +10,4 @@ Forum: jamiehunter
 
 ----
 
-Text: 
+Discord: jamie5331

@@ -1,4 +1,4 @@
-Title: Montréal
+Name: Montréal
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 45.503182
 ----
 
 Longitude: -73.569807
-
-----
-
-Text: 

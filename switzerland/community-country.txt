@@ -1,5 +1,1 @@
-Title: Switzerland
-
-----
-
-Text: 
+Name: Switzerland

@@ -2,39 +2,7 @@ Name: Sonja Broda
 
 ----
 
-Business: Kirby core team
-
-----
-
-Place: Mainz
-
-----
-
-Country: Germany
-
-----
-
-Type: Core team
-
-----
-
-Latitude: 49.992863
-
-----
-
-Longitude: 8.247253
-
-----
-
-Discord: sonjabroda
-
-----
-
-Email: sonja@getkirby.com
-
-----
-
-Website: https://getkirby.com
+Organisation: Kirby core team
 
 ----
 
@@ -42,4 +10,4 @@ Forum: texnixe
 
 ----
 
-Text: 
+Discord: sonjabroda

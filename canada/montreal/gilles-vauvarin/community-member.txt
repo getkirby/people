@@ -2,40 +2,8 @@ Name: Gilles Vauvarin
 
 ----
 
-Business: Pixenjoy
-
-----
-
-Partner: Partner
-
-----
-
-Place: Montréal
-
-----
-
-Country: Canada
-
-----
-
-Type: Freelancer
-
-----
-
-Latitude: 45.503182
-
-----
-
-Longitude: -73.569807
+Organisation: Pixenjoy
 
 ----
 
 Discord: gillesvauvarin
-
-----
-
-Website: https://pixenjoy.com
-
-----
-
-Text: 

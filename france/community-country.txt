@@ -1,5 +1,1 @@
-Title: France
-
-----
-
-Text: 
+Name: France

@@ -2,23 +2,7 @@ Name: Timo Rychert
 
 ----
 
-Place: Hamburg
-
-----
-
-Country: Germany
-
-----
-
-Type: Freelancer
-
-----
-
-Latitude: 53.550341
-
-----
-
-Longitude: 10.000654
+Forum: trych
 
 ----
 
@@ -26,12 +10,4 @@ Discord: trych
 
 ----
 
-Forum: trych
-
-----
-
 Mastodon: @trych@mastodon.social
-
-----
-
-Text: 

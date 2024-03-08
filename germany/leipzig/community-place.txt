@@ -1,4 +1,4 @@
-Title: Leipzig
+Name: Leipzig
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 51.340632
 ----
 
 Longitude: 12.374733
-
-----
-
-Text: 

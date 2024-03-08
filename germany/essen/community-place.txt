@@ -1,4 +1,4 @@
-Title: Essen
+Name: Essen
 
 ----
 
@@ -7,7 +7,3 @@ Latitude: 51.458224
 ----
 
 Longitude: 7.015817
-
-----
-
-Text: 
