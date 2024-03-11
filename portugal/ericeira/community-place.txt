@@ -1,0 +1,9 @@
+Name: Ericeira
+
+----
+
+Latitude: 38.963166
+
+----
+
+Longitude: -9.41701
