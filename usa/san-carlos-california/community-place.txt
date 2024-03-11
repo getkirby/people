@@ -1,0 +1,9 @@
+Name: San Carlos, California
+
+----
+
+Latitude: 37.504936
+
+----
+
+Longitude: -122.261824
