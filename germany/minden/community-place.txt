@@ -1,0 +1,9 @@
+Name: Minden
+
+----
+
+Latitude: 52.288105
+
+----
+
+Longitude: 8.916885
