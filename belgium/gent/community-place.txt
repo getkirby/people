@@ -1,0 +1,9 @@
+Name: Gent
+
+----
+
+Latitude: 51.053829
+
+----
+
+Longitude: 3.725012
