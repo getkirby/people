@@ -1,0 +1,9 @@
+Name: Wuppertal
+
+----
+
+Latitude: 51.264018
+
+----
+
+Longitude: 7.178037
