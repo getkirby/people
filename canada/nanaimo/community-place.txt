@@ -1,0 +1,9 @@
+Name: Nanaimo
+
+----
+
+Latitude: 49.163877
+
+----
+
+Longitude: -123.938122
