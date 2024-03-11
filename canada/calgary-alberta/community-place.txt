@@ -1,0 +1,9 @@
+Name: Calgary, Alberta
+
+----
+
+Latitude: 51.046095
+
+----
+
+Longitude: -114.065465
