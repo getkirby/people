@@ -1,0 +1,9 @@
+Name: Covilhã
+
+----
+
+Latitude: 40.280566
+
+----
+
+Longitude: -7.504321
