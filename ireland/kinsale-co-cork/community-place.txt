@@ -1,0 +1,9 @@
+Name: Kinsale, Co. Cork
+
+----
+
+Latitude: 51.705737
+
+----
+
+Longitude: -8.522982
