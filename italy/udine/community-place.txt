@@ -1,0 +1,9 @@
+Name: Udine
+
+----
+
+Latitude: 46.063463
+
+----
+
+Longitude: 13.235838
