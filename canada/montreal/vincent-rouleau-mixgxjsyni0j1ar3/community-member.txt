@@ -2,11 +2,11 @@ Name: Vincent Rouleau
 
 ----
 
-Organisation: Rouleau
+Organisation: Calotte
 
 ----
 
-Forum: 
+Forum:
 
 ----
 
@@ -14,7 +14,7 @@ Github: calotteca
 
 ----
 
-Discord: 
+Discord:
 
 ----
 
@@ -22,8 +22,8 @@ Instagram: calotte_ca
 
 ----
 
-Mastodon: 
+Mastodon:
 
 ----
 
-Linkedin: 
+Linkedin:
