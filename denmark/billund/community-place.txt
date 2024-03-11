@@ -1,0 +1,9 @@
+Name: Billund
+
+----
+
+Latitude: 55.724702
+
+----
+
+Longitude: 9.119583
