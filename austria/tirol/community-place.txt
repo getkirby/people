@@ -1,0 +1,9 @@
+Name: Tirol
+
+----
+
+Latitude: 47.2654296
+
+----
+
+Longitude: 11.3927685
