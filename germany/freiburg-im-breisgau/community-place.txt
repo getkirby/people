@@ -1,0 +1,9 @@
+Name: Freiburg im Breisgau
+
+----
+
+Latitude: 47.99609
+
+----
+
+Longitude: 7.8494
