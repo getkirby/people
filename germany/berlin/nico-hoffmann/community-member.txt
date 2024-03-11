@@ -19,3 +19,7 @@ Mastodon: @distantnative@chaos.social
 ----
 
 Github: distantnative
+
+----
+
+Linkedin: nicohoffmann
