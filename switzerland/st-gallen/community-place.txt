@@ -1,0 +1,9 @@
+Name: St. Gallen
+
+----
+
+Latitude: 47.427137
+
+----
+
+Longitude: 9.373959
