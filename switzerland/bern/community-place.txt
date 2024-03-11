@@ -1,0 +1,9 @@
+Name: Bern
+
+----
+
+Latitude: 46.948271
+
+----
+
+Longitude: 7.451451
