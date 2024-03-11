@@ -1,9 +1,0 @@
-Name: Edinburgh
-
-----
-
-Latitude: 55.953346
-
-----
-
-Longitude: -3.188375
