@@ -1,9 +1,0 @@
-Name: Frankfurt a.M.
-
-----
-
-Latitude: 50.110644
-
-----
-
-Longitude: 8.682092
