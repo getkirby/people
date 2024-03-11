@@ -1,0 +1,9 @@
+Name: Bangkok
+
+----
+
+Latitude: 13.7524938
+
+----
+
+Longitude: 100.4935089
