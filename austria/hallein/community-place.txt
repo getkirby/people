@@ -1,0 +1,9 @@
+Name: Hallein
+
+----
+
+Latitude: 47.682152
+
+----
+
+Longitude: 13.095631
