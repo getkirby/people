@@ -1,0 +1,9 @@
+Name: Schwäbisch Gmünd
+
+----
+
+Latitude: 48.799904
+
+----
+
+Longitude: 9.797758
