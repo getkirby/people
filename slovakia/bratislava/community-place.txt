@@ -1,0 +1,9 @@
+Name: Bratislava
+
+----
+
+Latitude: 48.151699
+
+----
+
+Longitude: 17.109306
