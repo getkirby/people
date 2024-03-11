@@ -2,11 +2,11 @@ Name: Jason Neel
 
 ----
 
-Organisation: 
+Organisation:
 
 ----
 
-Forum: 
+Forum:
 
 ----
 
@@ -18,7 +18,7 @@ Discord: jasonneel
 
 ----
 
-Instagram: 
+Instagram:
 
 ----
 
@@ -26,4 +26,4 @@ Mastodon: @JasonNeel@mastodon.social
 
 ----
 
-Linkedin: 
+Linkedin:
