@@ -1,0 +1,9 @@
+Name: Bergen
+
+----
+
+Latitude: 60.394306
+
+----
+
+Longitude: 5.325919
