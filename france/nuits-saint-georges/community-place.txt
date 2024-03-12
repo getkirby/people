@@ -1,0 +1,9 @@
+Name: Nuits-Saint-Georges
+
+----
+
+Latitude: 47.1379772
+
+----
+
+Longitude: 4.9502718
