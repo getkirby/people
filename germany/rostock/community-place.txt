@@ -1,0 +1,9 @@
+Name: Rostock
+
+----
+
+Latitude: 54.092445
+
+----
+
+Longitude: 12.128613
