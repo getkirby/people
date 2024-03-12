@@ -1,0 +1,9 @@
+Name: Stockholm
+
+----
+
+Latitude: 59.325117
+
+----
+
+Longitude: 18.071093
