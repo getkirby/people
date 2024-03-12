@@ -1,0 +1,9 @@
+Name: Duisburg
+
+----
+
+Latitude: 51.434999
+
+----
+
+Longitude: 6.759562
