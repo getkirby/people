@@ -1,0 +1,9 @@
+Name: Cologne
+
+----
+
+Latitude: 50.9390823
+
+----
+
+Longitude: 6.9598022
