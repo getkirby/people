@@ -26,4 +26,4 @@ Mastodon: @ldanielswakman@mastodon.social
 
 ----
 
-Linkedin: https://www.linkedin.com/in/ldan
+Linkedin: ldanielswakman
