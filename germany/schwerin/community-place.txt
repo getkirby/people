@@ -1,0 +1,9 @@
+Name: Schwerin
+
+----
+
+Latitude: 53.62883
+
+----
+
+Longitude: 11.414804
