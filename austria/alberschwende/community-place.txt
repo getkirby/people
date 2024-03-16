@@ -1,0 +1,9 @@
+Name: Alberschwende
+
+----
+
+Latitude: 47.450312
+
+----
+
+Longitude: 9.83136
