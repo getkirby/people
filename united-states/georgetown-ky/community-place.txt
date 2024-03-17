@@ -1,0 +1,9 @@
+Name: Georgetown, KY
+
+----
+
+Latitude: 38.209797
+
+----
+
+Longitude: -84.558831
