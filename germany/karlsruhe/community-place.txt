@@ -1,0 +1,9 @@
+Name: Karlsruhe
+
+----
+
+Latitude: 49.006889
+
+----
+
+Longitude: 8.403653

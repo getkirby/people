@@ -1,9 +1,0 @@
-Name: Gottesauer Straße 35, 76131 Karlsruhe
-
-----
-
-Latitude: 49.00677
-
-----
-
-Longitude: 8.420777
