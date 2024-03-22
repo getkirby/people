@@ -1,0 +1,9 @@
+Name: Fulda
+
+----
+
+Latitude: 50.554233
+
+----
+
+Longitude: 9.677045
