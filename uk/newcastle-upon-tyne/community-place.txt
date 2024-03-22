@@ -1,0 +1,9 @@
+Name: Newcastle upon Tyne
+
+----
+
+Latitude: 54.973847
+
+----
+
+Longitude: -1.613157
