@@ -2,10 +2,6 @@ Name: Sander Van de Vijver
 
 ----
 
-Organisation: https://sunny.systems
-
-----
-
 Forum: 
 
 ----
