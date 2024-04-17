@@ -1,0 +1,9 @@
+Name: Neumünster
+
+----
+
+Latitude: 54.0715017
+
+----
+
+Longitude: 9.9863035
