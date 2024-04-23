@@ -1,0 +1,9 @@
+Name: Alpnach
+
+----
+
+Latitude: 46.941166
+
+----
+
+Longitude: 8.273683
