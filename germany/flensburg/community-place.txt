@@ -1,0 +1,9 @@
+Name: Flensburg
+
+----
+
+Latitude: 54.783302
+
+----
+
+Longitude: 9.433326
