@@ -1,0 +1,9 @@
+Name: Weinheim
+
+----
+
+Latitude: 49.546235
+
+----
+
+Longitude: 8.671746
