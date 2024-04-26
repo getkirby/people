@@ -1,0 +1,9 @@
+Name: Amorbach
+
+----
+
+Latitude: 49.643684
+
+----
+
+Longitude: 9.222503
