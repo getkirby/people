@@ -1,0 +1,9 @@
+Name: Polling
+
+----
+
+Latitude: 47.811312
+
+----
+
+Longitude: 11.133091
