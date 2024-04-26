@@ -1,0 +1,9 @@
+Name: Schwäbisch Hall
+
+----
+
+Latitude: 49.112396
+
+----
+
+Longitude: 9.736905
