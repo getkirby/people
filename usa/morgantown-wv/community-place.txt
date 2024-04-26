@@ -1,9 +1,0 @@
-Name: Morgantown, WV
-
-----
-
-Latitude: 39.629681
-
-----
-
-Longitude: -79.955944
