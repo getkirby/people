@@ -1,0 +1,9 @@
+Name: Weimar
+
+----
+
+Latitude: 50.981049
+
+----
+
+Longitude: 11.329664
