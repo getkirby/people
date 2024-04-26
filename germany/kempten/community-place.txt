@@ -1,0 +1,9 @@
+Name: Kempten
+
+----
+
+Latitude: 47.726706
+
+----
+
+Longitude: 10.316883
