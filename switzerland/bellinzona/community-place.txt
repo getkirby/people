@@ -1,0 +1,9 @@
+Name: Bellinzona
+
+----
+
+Latitude: 46.1899841
+
+----
+
+Longitude: 9.0225112
