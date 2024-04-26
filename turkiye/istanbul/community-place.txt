@@ -2,8 +2,8 @@ Name: İstanbul
 
 ----
 
-Latitude: 41.0203937
+Latitude: 41.00854
 
 ----
 
-Longitude: 28.8863547
+Longitude: 28.98004
