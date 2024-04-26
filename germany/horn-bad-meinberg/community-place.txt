@@ -1,0 +1,9 @@
+Name: Horn-Bad Meinberg
+
+----
+
+Latitude: 51.872762
+
+----
+
+Longitude: 8.945382
