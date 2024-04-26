@@ -1,0 +1,9 @@
+Name: Tübingen
+
+----
+
+Latitude: 48.523616
+
+----
+
+Longitude: 9.053553
