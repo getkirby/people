@@ -1,0 +1,9 @@
+Name: East Ayrshire
+
+----
+
+Latitude: 55.5
+
+----
+
+Longitude: -4.25
