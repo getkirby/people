@@ -1,0 +1,9 @@
+Name: Bend, Oregon
+
+----
+
+Latitude: 44.058173
+
+----
+
+Longitude: -121.31531
