@@ -6,11 +6,11 @@ Organisation: kreativ-anders
 
 ----
 
-Forum: https://forum.getkirby.com/u/man
+Forum: man
 
 ----
 
-Github: https://github.com/kreativ-ander
+Github: kreativ-ander
 
 ----
 
@@ -26,4 +26,4 @@ Mastodon:
 
 ----
 
-Linkedin: https://www.linkedin.com/company
+Linkedin: company/kreativ-anders
