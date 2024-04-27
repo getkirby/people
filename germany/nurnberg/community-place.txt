@@ -1,0 +1,9 @@
+Name: Nürnberg
+
+----
+
+Latitude: 49.453872
+
+----
+
+Longitude: 11.077298
