@@ -1,0 +1,9 @@
+Name: Würzburg
+
+----
+
+Latitude: 49.7922629
+
+----
+
+Longitude: 9.9331582
