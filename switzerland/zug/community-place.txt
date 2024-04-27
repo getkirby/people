@@ -1,0 +1,9 @@
+Name: Zug
+
+----
+
+Latitude: 47.16799
+
+----
+
+Longitude: 8.517365
