@@ -1,0 +1,9 @@
+Name: Hoorn
+
+----
+
+Latitude: 52.653272
+
+----
+
+Longitude: 5.07358
