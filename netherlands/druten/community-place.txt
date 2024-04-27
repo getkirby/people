@@ -1,0 +1,9 @@
+Name: Druten
+
+----
+
+Latitude: 51.886073
+
+----
+
+Longitude: 5.602962
