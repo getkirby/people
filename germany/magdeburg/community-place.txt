@@ -1,0 +1,9 @@
+Name: Magdeburg
+
+----
+
+Latitude: 52.131589
+
+----
+
+Longitude: 11.639961
