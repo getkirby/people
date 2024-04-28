@@ -6,11 +6,11 @@ Organisation: kreativ-anders
 
 ----
 
-Forum: man
+Forum: manuel
 
 ----
 
-Github: kreativ-ander
+Github: kreativ-anders
 
 ----
 
