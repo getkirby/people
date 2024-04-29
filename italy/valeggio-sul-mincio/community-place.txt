@@ -1,0 +1,9 @@
+Name: Valeggio Sul Mincio
+
+----
+
+Latitude: 45.353751
+
+----
+
+Longitude: 10.734546
