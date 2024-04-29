@@ -1,0 +1,9 @@
+Name: Biel/Bienne
+
+----
+
+Latitude: 47.132814
+
+----
+
+Longitude: 7.2428785
