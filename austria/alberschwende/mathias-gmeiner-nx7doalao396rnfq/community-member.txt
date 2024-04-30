@@ -10,7 +10,7 @@ Forum: weitweit
 
 ----
 
-Github: 
+Github:
 
 ----
 
@@ -18,12 +18,12 @@ Discord: mathiasgmeiner
 
 ----
 
-Instagram: 
+Instagram:
 
 ----
 
-Mastodon: @mathiasgmeiner@mastdodon.social
+Mastodon: @mathiasgmeiner@mastodon.social
 
 ----
 
-Linkedin: 
+Linkedin:
