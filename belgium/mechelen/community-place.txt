@@ -1,0 +1,9 @@
+Name: Mechelen
+
+----
+
+Latitude: 51.028138
+
+----
+
+Longitude: 4.480345
