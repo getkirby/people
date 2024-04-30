@@ -1,0 +1,9 @@
+Name: Newark
+
+----
+
+Latitude: 53.076169
+
+----
+
+Longitude: -0.809234
