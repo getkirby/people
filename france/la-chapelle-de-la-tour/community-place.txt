@@ -1,0 +1,9 @@
+Name: La Chapelle-de-la-Tour
+
+----
+
+Latitude: 45.585059
+
+----
+
+Longitude: 5.465134
