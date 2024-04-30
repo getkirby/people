@@ -1,9 +1,0 @@
-Name: Boston
-
-----
-
-Latitude: 42.360253
-
-----
-
-Longitude: -71.058291

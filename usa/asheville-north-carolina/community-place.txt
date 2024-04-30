@@ -1,0 +1,9 @@
+Name: Asheville, North Carolina
+
+----
+
+Latitude: 35.60095
+
+----
+
+Longitude: -82.554016
