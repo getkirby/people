@@ -2,28 +2,28 @@ Name: Daniel Prindii
 
 ----
 
-Organisation: 
+Organisation:
 
 ----
 
-Forum: 
+Forum:
 
 ----
 
-Github: 
+Github:
 
 ----
 
-Discord: 
+Discord:
 
 ----
 
-Instagram: 
+Instagram:
 
 ----
 
-Mastodon: https://mastodon.social/@klausblog
+Mastodon: @klausblog@mastodon.social
 
 ----
 
-Linkedin: 
+Linkedin:
