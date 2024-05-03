@@ -1,0 +1,9 @@
+Name: Hattem
+
+----
+
+Latitude: 52.477318
+
+----
+
+Longitude: 6.056001
