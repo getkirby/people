@@ -2,7 +2,7 @@ Name: Marcel Hieke-Hecht
 
 ----
 
-Organisation: marcelhieke.com
+Organisation:
 
 ----
 
