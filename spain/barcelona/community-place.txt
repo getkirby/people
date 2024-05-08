@@ -1,0 +1,9 @@
+Name: Barcelona
+
+----
+
+Latitude: 41.38723
+
+----
+
+Longitude: 2.16538
