@@ -1,0 +1,9 @@
+Name: Aßlar
+
+----
+
+Latitude: 50.592712
+
+----
+
+Longitude: 8.464333
