@@ -1,0 +1,9 @@
+Name: Ludwigshafen am Rhein
+
+----
+
+Latitude: 49.4703156
+
+----
+
+Longitude: 8.438291
