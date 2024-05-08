@@ -2,7 +2,7 @@ Name: Christoph Bönning
 
 ----
 
-Organisation: Art der Gestaltung | Werbeagentur / Advertising Agency
+Organisation: Art der Gestaltung
 
 ----
 
@@ -26,4 +26,4 @@ Mastodon:
 
 ----
 
-Linkedin: artdergestaltung
+Linkedin: company/art-der-gestaltung/
