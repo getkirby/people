@@ -1,0 +1,9 @@
+Name: Kirchenthumbach
+
+----
+
+Latitude: 49.749509
+
+----
+
+Longitude: 11.724661
