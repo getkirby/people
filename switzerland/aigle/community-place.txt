@@ -1,0 +1,9 @@
+Name: Aigle
+
+----
+
+Latitude: 46.3174338
+
+----
+
+Longitude: 6.9695954
