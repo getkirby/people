@@ -1,0 +1,9 @@
+Name: Córdoba
+
+----
+
+Latitude: -31.420877
+
+----
+
+Longitude: -64.19041
