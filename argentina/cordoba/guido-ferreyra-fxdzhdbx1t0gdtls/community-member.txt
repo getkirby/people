@@ -2,7 +2,7 @@ Name: Guido Ferreyra
 
 ----
 
-Organisation: tipografia.com.ar
+Organisation: 
 
 ----
 
