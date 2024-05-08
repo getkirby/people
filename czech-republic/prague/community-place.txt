@@ -1,0 +1,9 @@
+Name: Prague
+
+----
+
+Latitude: 50.085837
+
+----
+
+Longitude: 14.422954
