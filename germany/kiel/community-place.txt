@@ -1,0 +1,9 @@
+Name: Kiel
+
+----
+
+Latitude: 54.318789
+
+----
+
+Longitude: 10.133077
