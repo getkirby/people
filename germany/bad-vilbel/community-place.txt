@@ -1,0 +1,9 @@
+Name: Bad Vilbel
+
+----
+
+Latitude: 50.183435
+
+----
+
+Longitude: 8.744357
