@@ -1,0 +1,9 @@
+Name: Garmisch-Partenkirchen
+
+----
+
+Latitude: 47.492371
+
+----
+
+Longitude: 11.086110

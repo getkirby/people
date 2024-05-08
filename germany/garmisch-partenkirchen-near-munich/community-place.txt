@@ -1,9 +1,0 @@
-Name: Garmisch-Partenkirchen (near Munich)
-
-----
-
-Latitude: 47.4920967
-
-----
-
-Longitude: 11.0962067
