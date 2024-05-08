@@ -2,7 +2,7 @@ Name: Benjamin Haeberli
 
 ----
 
-Organisation: benjaminhaeberli.ch
+Organisation: 
 
 ----
 
