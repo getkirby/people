@@ -2,7 +2,7 @@ Name: Roberto Zoia
 
 ----
 
-Organisation: zoia.org
+Organisation: 
 
 ----
 
@@ -10,7 +10,7 @@ Forum:
 
 ----
 
-Github: https://github.com/robertozoia/
+Github: robertozoia
 
 ----
 
@@ -26,4 +26,4 @@ Mastodon: @robertoz@fosstodon.org
 
 ----
 
-Linkedin: https://www.linkedin.com/in/rzoi
+Linkedin: rzoi
