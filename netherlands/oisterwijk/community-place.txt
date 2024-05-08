@@ -1,0 +1,9 @@
+Name: Oisterwijk
+
+----
+
+Latitude: 51.5810332
+
+----
+
+Longitude: 5.1991629
