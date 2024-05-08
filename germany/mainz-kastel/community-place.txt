@@ -1,9 +1,0 @@
-Name: Mainz-Kastel
-
-----
-
-Latitude: 50.008231
-
-----
-
-Longitude: 8.284897
