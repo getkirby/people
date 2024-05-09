@@ -1,0 +1,9 @@
+Name: Berchem
+
+----
+
+Latitude: 51.194324
+
+----
+
+Longitude: 4.43533
