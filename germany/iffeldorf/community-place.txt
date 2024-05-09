@@ -1,0 +1,9 @@
+Name: Iffeldorf
+
+----
+
+Latitude: 47.770856
+
+----
+
+Longitude: 11.319044
