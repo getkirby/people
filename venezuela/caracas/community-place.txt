@@ -1,0 +1,9 @@
+Name: Caracas
+
+----
+
+Latitude: 10.506635
+
+----
+
+Longitude: -66.9089
