@@ -1,0 +1,9 @@
+Name: Ehringshausen
+
+----
+
+Latitude: 50.598188
+
+----
+
+Longitude: 8.38251
