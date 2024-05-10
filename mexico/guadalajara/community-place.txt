@@ -1,0 +1,9 @@
+Name: Guadalajara
+
+----
+
+Latitude: 20.674652
+
+----
+
+Longitude: -103.365051
