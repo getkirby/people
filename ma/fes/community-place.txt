@@ -1,0 +1,9 @@
+Name: Fes
+
+----
+
+Latitude: 34.034295
+
+----
+
+Longitude: -5.017115
