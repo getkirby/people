@@ -1,0 +1,9 @@
+Name: Bantega
+
+----
+
+Latitude: 52.842245
+
+----
+
+Longitude: 5.796456
