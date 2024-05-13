@@ -1,4 +1,4 @@
-Name: ap Marketing
+Name: Stefan Fritsch
 
 ----
 
@@ -10,7 +10,7 @@ Forum: apMarketing
 
 ----
 
-Github: https://github.com/arspublica-be
+Github: arspublica-bergen
 
 ----
 
@@ -18,7 +18,7 @@ Discord:
 
 ----
 
-Instagram: https://www.instagram.com/ars_pu
+Instagram: ars_publica_marketing
 
 ----
 
