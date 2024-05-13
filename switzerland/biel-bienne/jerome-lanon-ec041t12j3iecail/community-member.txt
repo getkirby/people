@@ -2,7 +2,7 @@ Name: Jérôme Lanon
 
 ----
 
-Organisation: https://lanon.ch
+Organisation:
 
 ----
 
