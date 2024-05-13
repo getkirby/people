@@ -1,0 +1,9 @@
+Name: Bergen auf Rügen
+
+----
+
+Latitude: 54.417267
+
+----
+
+Longitude: 13.430563
