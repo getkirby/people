@@ -1,0 +1,9 @@
+Name: Loughborough
+
+----
+
+Latitude: 52.772427
+
+----
+
+Longitude: -1.207892
