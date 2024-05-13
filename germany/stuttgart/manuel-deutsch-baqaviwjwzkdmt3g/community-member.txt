@@ -2,7 +2,7 @@ Name: Manuel Deutsch
 
 ----
 
-Organisation: Freiberuflicher Webentwickler
+Organisation: 
 
 ----
 
