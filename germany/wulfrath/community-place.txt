@@ -1,0 +1,9 @@
+Name: Wülfrath
+
+----
+
+Latitude: 51.281918
+
+----
+
+Longitude: 7.032012
