@@ -1,20 +1,20 @@
-Name: JUNO
+Name: Annika Vennemann
 
 ----
 
-Organisation: JUNO GmbH & Co. KG
+Organisation: JUNO
 
 ----
 
-Forum: 
+Forum:
 
 ----
 
-Github: 
+Github:
 
 ----
 
-Discord: 
+Discord: annikajuno
 
 ----
 
@@ -22,7 +22,7 @@ Instagram: juno_hamburg
 
 ----
 
-Mastodon: 
+Mastodon:
 
 ----
 
