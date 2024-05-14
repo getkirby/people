@@ -1,0 +1,9 @@
+Name: Augsburg
+
+----
+
+Latitude: 48.367977
+
+----
+
+Longitude: 10.897016
