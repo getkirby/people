@@ -1,0 +1,9 @@
+Name: Esslingen
+
+----
+
+Latitude: 48.7425025
+
+----
+
+Longitude: 9.307083
