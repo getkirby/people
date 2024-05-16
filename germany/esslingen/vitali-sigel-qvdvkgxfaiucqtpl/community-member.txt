@@ -2,11 +2,11 @@ Name: Vitali Sigel
 
 ----
 
-Organisation: Vitali Sigel / Design & Code
+Organisation:
 
 ----
 
-Forum: 
+Forum:
 
 ----
 
@@ -18,12 +18,12 @@ Discord: vsdc2915
 
 ----
 
-Instagram: 
+Instagram:
 
 ----
 
-Mastodon: 
+Mastodon:
 
 ----
 
-Linkedin: Vitali Sigel
+Linkedin: vitali-sigel-572ba975
