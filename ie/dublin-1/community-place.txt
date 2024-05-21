@@ -1,9 +1,0 @@
-Name: Dublin 1
-
-----
-
-Latitude: 53.993815
-
-----
-
-Longitude: -6.403773
