@@ -1,0 +1,9 @@
+Name: Forbach
+
+----
+
+Latitude: 49.18708
+
+----
+
+Longitude: 6.898248
