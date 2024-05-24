@@ -1,0 +1,9 @@
+Name: Wrexham
+
+----
+
+Latitude: 53.046626
+
+----
+
+Longitude: -2.993507
