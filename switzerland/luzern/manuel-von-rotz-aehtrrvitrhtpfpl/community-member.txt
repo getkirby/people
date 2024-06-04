@@ -2,7 +2,7 @@ Name: Manuel von Rotz
 
 ----
 
-Organisation: MATOBE AG
+Organisation: MATOBE Digital
 
 ----
 
@@ -10,7 +10,7 @@ Forum:
 
 ----
 
-Github: https://github.com/matobeag
+Github: matobeag
 
 ----
 
