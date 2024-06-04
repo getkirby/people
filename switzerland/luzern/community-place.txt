@@ -1,0 +1,9 @@
+Name: Luzern
+
+----
+
+Latitude: 47.052019
+
+----
+
+Longitude: 8.303831
