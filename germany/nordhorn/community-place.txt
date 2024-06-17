@@ -1,0 +1,9 @@
+Name: Nordhorn
+
+----
+
+Latitude: 52.436695
+
+----
+
+Longitude: 7.071328
