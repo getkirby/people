@@ -1,0 +1,9 @@
+Name: Erfurt
+
+----
+
+Latitude: 50.97802
+
+----
+
+Longitude: 11.028323
