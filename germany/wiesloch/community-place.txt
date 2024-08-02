@@ -1,0 +1,9 @@
+Name: Wiesloch
+
+----
+
+Latitude: 49.29515
+
+----
+
+Longitude: 8.700091
