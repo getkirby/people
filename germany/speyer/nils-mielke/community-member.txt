@@ -2,7 +2,7 @@ Name: Nils Mielke
 
 ----
 
-Organisation: FEUERWASSER
+Organisation: FEUERWASSER gmbh
 
 ----
 
@@ -14,4 +14,4 @@ Discord: nilsmielke
 
 ----
 
-Mastodon: @nils@nilsmielke.me
+Mastodon: @nilsmielke@det.social
