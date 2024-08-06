@@ -1,0 +1,9 @@
+Name: Halle (Saale)
+
+----
+
+Latitude: 51.485294
+
+----
+
+Longitude: 11.96832
