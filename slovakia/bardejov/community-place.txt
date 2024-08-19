@@ -1,0 +1,9 @@
+Name: Bardejov
+
+----
+
+Latitude: 49.292896
+
+----
+
+Longitude: 21.275345
