@@ -1,0 +1,9 @@
+Name: Glasgow
+
+----
+
+Latitude: 55.860982
+
+----
+
+Longitude: -4.248879
