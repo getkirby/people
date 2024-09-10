@@ -1,0 +1,9 @@
+Name: Kirchheim b. München
+
+----
+
+Latitude: 52.517037
+
+----
+
+Longitude: 13.38886
