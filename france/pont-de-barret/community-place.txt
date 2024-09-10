@@ -1,0 +1,9 @@
+Name: Pont-de-Barret
+
+----
+
+Latitude: 44.600082
+
+----
+
+Longitude: 5.008512
