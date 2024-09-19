@@ -1,9 +1,0 @@
-Name: Paris
-
-----
-
-Latitude: 48.853495
-
-----
-
-Longitude: 2.348392
