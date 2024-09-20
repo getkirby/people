@@ -1,0 +1,9 @@
+Name: Lausanne
+
+----
+
+Latitude: 46.520714
+
+----
+
+Longitude: 6.632528
