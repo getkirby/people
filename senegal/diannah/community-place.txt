@@ -1,0 +1,9 @@
+Name: Diannah
+
+----
+
+Latitude: 41.015161
+
+----
+
+Longitude: 28.967094
