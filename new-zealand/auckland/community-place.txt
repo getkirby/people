@@ -1,0 +1,9 @@
+Name: Auckland
+
+----
+
+Latitude: -36.846997
+
+----
+
+Longitude: 174.765917
