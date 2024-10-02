@@ -1,0 +1,9 @@
+Name: St. Albans, West Virginia
+
+----
+
+Latitude: 38.3854
+
+----
+
+Longitude: -81.83647
