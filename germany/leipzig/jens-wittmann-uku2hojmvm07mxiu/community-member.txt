@@ -2,10 +2,6 @@ Name: Jens Wittmann
 
 ----
 
-Organisation: Gestaltung & Entwicklung
-
-----
-
 Forum: JensWittmann
 
 ----
