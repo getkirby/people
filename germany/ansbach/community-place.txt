@@ -1,0 +1,9 @@
+Name: Ansbach
+
+----
+
+Latitude: 49.302586
+
+----
+
+Longitude: 10.572458
