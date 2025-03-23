@@ -1,0 +1,9 @@
+Name: Herentals
+
+----
+
+Latitude: 51.176543
+
+----
+
+Longitude: 4.83626
