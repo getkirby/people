@@ -1,0 +1,9 @@
+Name: Fribourg
+
+----
+
+Latitude: 46.804447
+
+----
+
+Longitude: 7.154344
