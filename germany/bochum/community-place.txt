@@ -1,0 +1,9 @@
+Name: Bochum
+
+----
+
+Latitude: 51.481731
+
+----
+
+Longitude: 7.220008
