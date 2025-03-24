@@ -1,0 +1,9 @@
+Name: Romanshorn
+
+----
+
+Latitude: 47.56516
+
+----
+
+Longitude: 9.377297
