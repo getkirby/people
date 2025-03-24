@@ -2,7 +2,7 @@ Name: Roger Killer
 
 ----
 
-Organisation: https://www.brueggli-admedia.ch/
+Organisation: Brüggli Admedia
 
 ----
 
@@ -26,4 +26,4 @@ Mastodon:
 
 ----
 
-Linkedin: Roger Killer
+Linkedin: roger-killer-b725891b2
