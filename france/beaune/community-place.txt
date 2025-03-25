@@ -1,0 +1,9 @@
+Name: Beaune
+
+----
+
+Latitude: 47.0234
+
+----
+
+Longitude: 4.838299
