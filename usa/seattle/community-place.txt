@@ -1,0 +1,9 @@
+Name: Seattle
+
+----
+
+Latitude: 47.603245
+
+----
+
+Longitude: -122.330284
