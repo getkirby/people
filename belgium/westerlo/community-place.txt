@@ -1,0 +1,9 @@
+Name: Westerlo
+
+----
+
+Latitude: 51.086694
+
+----
+
+Longitude: 4.916868
