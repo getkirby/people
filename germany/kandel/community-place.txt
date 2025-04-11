@@ -1,0 +1,9 @@
+Name: Kandel
+
+----
+
+Latitude: 49.08242
+
+----
+
+Longitude: 8.197361
