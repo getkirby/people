@@ -1,0 +1,9 @@
+Name: Geneva
+
+----
+
+Latitude: 46.20477
+
+----
+
+Longitude: 6.146314
