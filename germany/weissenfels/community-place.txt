@@ -1,0 +1,9 @@
+Name: Weißenfels
+
+----
+
+Latitude: 51.200806
+
+----
+
+Longitude: 11.972156
