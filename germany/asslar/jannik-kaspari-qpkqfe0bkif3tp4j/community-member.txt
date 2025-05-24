@@ -2,23 +2,15 @@ Name: Jannik Kaspari
 
 ----
 
-Organisation: STEILAUFWAERTS
+Organisation: kasparini.digital
 
 ----
 
-Forum: 
+Forum: kasparini.digital
 
 ----
 
-Github: 
-
-----
-
-Discord: derKasprini
-
-----
-
-Instagram: derKasparini
+Github: kasparini-digital
 
 ----
 
