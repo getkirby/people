@@ -6,15 +6,15 @@ Organisation: AndreasGregorDesign
 
 ----
 
-Forum: 
+Forum:
 
 ----
 
-Github: 
+Github:
 
 ----
 
-Discord: 
+Discord: RedTukan
 
 ----
 
@@ -22,7 +22,7 @@ Instagram: andreasgregor
 
 ----
 
-Mastodon: 
+Mastodon:
 
 ----
 
