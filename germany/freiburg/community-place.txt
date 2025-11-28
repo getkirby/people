@@ -1,0 +1,9 @@
+Name: Freiburg
+
+----
+
+Latitude: 53.82571
+
+----
+
+Longitude: 9.288527
