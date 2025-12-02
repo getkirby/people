@@ -1,9 +1,0 @@
-Name: Fenchhlstr. 5, 69493 Hirschberg
-
-----
-
-Latitude: 49.498008
-
-----
-
-Longitude: 8.658016

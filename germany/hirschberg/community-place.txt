@@ -1,0 +1,9 @@
+Name: Hirschberg
+
+----
+
+Latitude: 49.506111
+
+----
+
+Longitude: 8.656310
