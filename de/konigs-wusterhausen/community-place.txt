@@ -1,0 +1,9 @@
+Name: Königs Wusterhausen
+
+----
+
+Latitude: 52.295948
+
+----
+
+Longitude: 13.624742
