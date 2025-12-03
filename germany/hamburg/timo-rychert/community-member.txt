@@ -2,7 +2,15 @@ Name: Timo Rychert
 
 ----
 
+Organisation: Open-Close.Studio
+
+----
+
 Forum: trych
+
+----
+
+Github: trych
 
 ----
 
