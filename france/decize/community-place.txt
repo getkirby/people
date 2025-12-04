@@ -1,0 +1,9 @@
+Name: Decize
+
+----
+
+Latitude: 46.829033
+
+----
+
+Longitude: 3.462681
