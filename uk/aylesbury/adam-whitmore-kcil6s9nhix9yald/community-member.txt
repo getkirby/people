@@ -2,7 +2,7 @@ Name: Adam Whitmore
 
 ----
 
-Organisation: Brandsistency
+Organisation: Lightbulb Design
 
 ----
 
@@ -10,20 +10,12 @@ Forum: whitmoa
 
 ----
 
-Github: brandsis
+Github: lightbulbdesignuk
 
 ----
 
-Discord: brandsistency
+Instagram: lightbulbdesignuk
 
 ----
 
-Instagram: brandsistency
-
-----
-
-Mastodon: @brandsistency@mastodon.social
-
-----
-
-Linkedin: 
+Linkedin: lightbulbdesignuk
