@@ -1,0 +1,9 @@
+Name: Rotterdam
+
+----
+
+Latitude: 51.92079
+
+----
+
+Longitude: 4.487597
