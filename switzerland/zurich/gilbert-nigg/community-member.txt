@@ -26,4 +26,4 @@ Mastodon:
 
 ----
 
-Linkedin: https://www.linkedin.com/in/gilbertnigg/
+Linkedin: gilbertnigg
