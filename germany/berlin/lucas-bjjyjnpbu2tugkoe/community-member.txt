@@ -1,8 +1,8 @@
-Name: Lucas
+Name: Lucas Dietrich
 
 ----
 
-Organisation: lucasdietrich.com
+Organisation:
 
 ----
 
