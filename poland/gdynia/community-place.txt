@@ -1,0 +1,9 @@
+Name: Gdynia
+
+----
+
+Latitude: 54.51936
+
+----
+
+Longitude: 18.542543
