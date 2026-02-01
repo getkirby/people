@@ -2,7 +2,7 @@ Name: Justin Ritter
 
 ----
 
-Organisation: Nodework.de
+Organisation: Nodework
 
 ----
 
@@ -10,7 +10,7 @@ Forum: j54j6
 
 ----
 
-Github: github.justinritter.de
+Github: j54j6
 
 ----
 
@@ -18,7 +18,7 @@ Discord: j54j6
 
 ----
 
-Instagram: insta.justinritter.de
+Instagram: j53j6
 
 ----
 
@@ -26,4 +26,4 @@ Mastodon:
 
 ----
 
-Linkedin: linkedin.justinritter.de
+Linkedin: in/justin-ritter-com
