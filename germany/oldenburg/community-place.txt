@@ -1,0 +1,9 @@
+Name: Oldenburg
+
+----
+
+Latitude: 53.137445
+
+----
+
+Longitude: 8.216303
