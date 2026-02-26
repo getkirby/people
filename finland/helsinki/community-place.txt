@@ -1,0 +1,9 @@
+Name: Helsinki
+
+----
+
+Latitude: 60.167507
+
+----
+
+Longitude: 24.941822
