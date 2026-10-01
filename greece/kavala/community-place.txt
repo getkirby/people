@@ -1,0 +1,9 @@
+Name: Kavala
+
+----
+
+Latitude: 40.935486
+
+----
+
+Longitude: 24.41265
