@@ -2,7 +2,7 @@ Name: Vincent Rouleau
 
 ----
 
-Organisation: Calotte
+Organisation: Compact
 
 ----
 
@@ -10,7 +10,7 @@ Forum:
 
 ----
 
-Github: calotteca
+Github: cmpct-studio
 
 ----
 
@@ -18,7 +18,7 @@ Discord:
 
 ----
 
-Instagram: calotte_ca
+Instagram: cmpct_studio
 
 ----
 
