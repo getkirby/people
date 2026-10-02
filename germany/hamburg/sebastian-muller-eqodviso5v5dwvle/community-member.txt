@@ -27,3 +27,7 @@ Mastodon:
 ----
 
 Linkedin: sebastian-mueller-30a91a11
+
+----
+
+Added: 2024-08-31

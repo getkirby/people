@@ -27,3 +27,7 @@ Mastodon:
 ----
 
 Linkedin: vkaufinger
+
+----
+
+Added: 2025-06-18

@@ -27,3 +27,7 @@ Mastodon:
 ----
 
 Linkedin: vitali-sigel-572ba975
+
+----
+
+Added: 2024-05-16

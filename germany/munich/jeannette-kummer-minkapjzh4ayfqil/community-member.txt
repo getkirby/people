@@ -27,3 +27,7 @@ Mastodon: @erdgeschoss@mastodon.social
 ----
 
 Linkedin: 
+
+----
+
+Added: 2024-04-26

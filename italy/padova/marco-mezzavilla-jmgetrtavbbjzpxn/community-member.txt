@@ -27,3 +27,7 @@ Mastodon: @marcomezzavilla@mastodon.social
 ----
 
 Linkedin: marcomezzavilla
+
+----
+
+Added: 2024-03-12

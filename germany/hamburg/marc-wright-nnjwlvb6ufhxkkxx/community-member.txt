@@ -27,3 +27,7 @@ Mastodon: @8grad@mastodon.social
 ----
 
 Linkedin: 
+
+----
+
+Added: 2024-04-26

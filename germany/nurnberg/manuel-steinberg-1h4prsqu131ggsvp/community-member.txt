@@ -27,3 +27,8 @@ Mastodon:
 ----
 
 Linkedin: company/kreativ-anders
+
+
+----
+
+Added: 2024-04-27

@@ -23,3 +23,7 @@ Mastodon: @johannschopplich@det.social
 ----
 
 Linkedin: johann.schopplich
+
+----
+
+Added: 2024-03-08

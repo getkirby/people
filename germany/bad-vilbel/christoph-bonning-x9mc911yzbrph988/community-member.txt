@@ -27,3 +27,8 @@ Mastodon:
 ----
 
 Linkedin: company/art-der-gestaltung/
+
+
+----
+
+Added: 2024-05-08

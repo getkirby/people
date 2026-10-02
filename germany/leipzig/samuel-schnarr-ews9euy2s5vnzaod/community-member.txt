@@ -27,3 +27,7 @@ Mastodon:
 ----
 
 Linkedin: samuel-schnarr
+
+----
+
+Added: 2024-05-08

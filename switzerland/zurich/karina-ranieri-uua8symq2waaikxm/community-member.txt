@@ -27,3 +27,7 @@ Mastodon:
 ----
 
 Linkedin: karina-ranieri
+
+----
+
+Added: 2024-08-12

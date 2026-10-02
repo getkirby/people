@@ -27,3 +27,7 @@ Mastodon: @gutewebsites@mastodon.social
 ----
 
 Linkedin: andre-goldmann
+
+----
+
+Added: 2024-04-26

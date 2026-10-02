@@ -27,3 +27,7 @@ Mastodon: @mokorana@mastodon.social
 ----
 
 Linkedin: 
+
+----
+
+Added: 2025-06-25

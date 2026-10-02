@@ -27,3 +27,7 @@ Mastodon: @timotheegoguely@mastodon.design
 ----
 
 Linkedin: 
+
+----
+
+Added: 2024-04-26

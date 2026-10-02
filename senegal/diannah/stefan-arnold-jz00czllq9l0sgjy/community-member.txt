@@ -27,3 +27,7 @@ Mastodon: @stefan@swiss.social
 ----
 
 Linkedin: 
+
+----
+
+Added: 2024-09-23

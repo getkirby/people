@@ -27,3 +27,8 @@ Mastodon: @jonaspelzer@mastodon.social
 ----
 
 Linkedin: jonas-pelzer-70ba28214
+
+
+----
+
+Added: 2025-03-23

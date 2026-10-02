@@ -27,3 +27,7 @@ Mastodon: @yoshie@mastodon.design
 ----
 
 Linkedin: 
+
+----
+
+Added: 2026-09-29

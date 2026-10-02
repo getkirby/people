@@ -27,3 +27,7 @@ Mastodon:
 ----
 
 Linkedin: christian-kobben-75b0b015b
+
+----
+
+Added: 2026-10-01

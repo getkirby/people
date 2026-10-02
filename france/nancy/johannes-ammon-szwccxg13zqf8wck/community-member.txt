@@ -27,3 +27,7 @@ Mastodon: @ammon@typo.social
 ----
 
 Linkedin: 
+
+----
+
+Added: 2024-05-09

@@ -27,3 +27,7 @@ Mastodon: @colly@mastodon.social
 ----
 
 Linkedin: simon-collison
+
+----
+
+Added: 2024-05-24

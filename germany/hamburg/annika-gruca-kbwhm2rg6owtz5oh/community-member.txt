@@ -27,3 +27,8 @@ Mastodon:
 ----
 
 Linkedin: company/juno-gmbh.cokg
+
+
+----
+
+Added: 2024-07-04

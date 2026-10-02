@@ -27,3 +27,7 @@ Mastodon:
 ----
 
 Linkedin: Nicolas Zupfer
+
+----
+
+Added: 2024-05-02

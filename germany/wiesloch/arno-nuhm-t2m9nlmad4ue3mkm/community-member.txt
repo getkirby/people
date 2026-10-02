@@ -27,3 +27,7 @@ Mastodon: @frwssr@mastodon.social
 ----
 
 Linkedin: 
+
+----
+
+Added: 2024-08-04

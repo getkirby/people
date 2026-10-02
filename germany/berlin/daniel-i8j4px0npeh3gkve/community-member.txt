@@ -27,3 +27,8 @@ Mastodon: @ldanielswakman@mastodon.social
 ----
 
 Linkedin: ldanielswakman
+
+
+----
+
+Added: 2024-03-12

@@ -27,3 +27,8 @@ Mastodon: @Stolzenhain@mastodon.social
 ----
 
 Linkedin: florian-stolzenhain-6694bb58
+
+
+----
+
+Added: 2026-06-08

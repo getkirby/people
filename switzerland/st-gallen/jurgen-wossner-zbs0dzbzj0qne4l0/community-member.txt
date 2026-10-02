@@ -27,3 +27,7 @@ Mastodon: @jwssnr@typo.social
 ----
 
 Linkedin: 
+
+----
+
+Added: 2025-03-23

@@ -27,3 +27,7 @@ Mastodon:
 ----
 
 Linkedin: troa_digital
+
+----
+
+Added: 2024-11-15

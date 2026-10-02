@@ -27,3 +27,7 @@ Mastodon: @helloanselm@mastodon.social
 ----
 
 Linkedin: anselm-hannemann-b8317896
+
+----
+
+Added: 2024-05-09

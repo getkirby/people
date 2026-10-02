@@ -27,3 +27,7 @@ Mastodon: @linusrogge@mastodon.social
 ----
 
 Linkedin: 
+
+----
+
+Added: 2026-07-01

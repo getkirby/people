@@ -27,3 +27,7 @@ Mastodon:
 ----
 
 Linkedin: adriengoua
+
+----
+
+Added: 2024-12-09

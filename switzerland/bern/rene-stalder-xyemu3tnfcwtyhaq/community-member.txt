@@ -27,3 +27,7 @@ Mastodon: @renestalder@mastodon.social
 ----
 
 Linkedin: renestalder
+
+----
+
+Added: 2025-05-26
