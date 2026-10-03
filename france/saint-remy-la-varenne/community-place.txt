@@ -1,0 +1,9 @@
+Name: Saint Rémy la Varenne
+
+----
+
+Latitude: 47.387361
+
+----
+
+Longitude: -0.319825
