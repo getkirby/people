@@ -1,0 +1,9 @@
+Name: Wangen im Allgäu
+
+----
+
+Latitude: 47.68597
+
+----
+
+Longitude: 9.833641
